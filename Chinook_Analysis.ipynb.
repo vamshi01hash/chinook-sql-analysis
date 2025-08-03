@@ -1,3 +1,4 @@
+!unzip -o chinook.zip
 # Chinook Music Store SQL Analysis
 
 This notebook analyzes music store sales data using SQL with the Chinook SQLite database.
